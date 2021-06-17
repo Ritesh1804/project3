@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613467771408",
+    "firebase_url": "https://covid-19-4a858.firebaseio.com",
+    "project_id": "covid-19-4a858",
+    "storage_bucket": "covid-19-4a858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613467771408:android:a2f2616214218aa2b17095",
+        "android_client_info": {
+          "package_name": "riteshnehru.covid19_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613467771408-u81rl8b2sb1ojtrrrgt64c46gsm12ksu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8GNZ7Bc0moWzPCheGz5B81kdqQ-2JQUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613467771408-u81rl8b2sb1ojtrrrgt64c46gsm12ksu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
